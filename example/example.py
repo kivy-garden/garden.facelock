@@ -25,10 +25,10 @@ class StartScreen(Screen):
 
 class LockScreen(FaceLock, Screen):
     def change_scr(self):
-        print "You have unlocked the Application"
-        print "Secret Code: 15UCS164"
-        print "You can not access this code unless you unlock it"
-        print "You can do whatever that you want but it would need your face"
+        print("You have unlocked the Application")
+        print("Secret Code: 15UCS164")
+        print("You can not access this code unless you unlock it")
+        print("You can do whatever that you want but it would need your face")
 
 sm = ScreenManager(transition=FadeTransition())
 sm.add_widget(LockScreen(name="lock_screen"))

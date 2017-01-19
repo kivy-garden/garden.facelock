@@ -51,7 +51,7 @@ class FaceLock(Widget):
             '''
             if np.any(face_cascade.detectMultiScale(gray, 1.3, 5)):
                 
-                print ("Cascade found")
+                print("Cascade found")
                 
                 self.dispatch('on_match')
                 
@@ -61,12 +61,12 @@ class FaceLock(Widget):
                 break
             
             else:
-                print ("Not recognized")
+                print("Not recognized")
 
             cv2.imshow('frame', frame)
             #Comment the above statement not to show the camera screen
             if cv2.waitKey(1) & 0xFF == ord('q'):
-                print ("Forcefully Closed")
+                print("Forcefully Closed")
 
                 cv2.destroyAllWindows()
                 for i in range(1, 5):
