@@ -2,7 +2,7 @@ Face Lock
 =============
 
 ![ScreenShot 1](https://github.com/yaki29/facelock/blob/master/Screenshot%201.png)
-![ScreenShot 2](https://github.com/yaki29/facelock/blob/master/Screenshot%202.png)
+![ScreenShot 2](https://github.com/yaki29/facelock/blob/master/Screenshot.png)
 
 ##Usage Summary
 
