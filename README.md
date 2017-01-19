@@ -1,7 +1,8 @@
 Face Lock
 =============
 
-<!-- ![ScreenShot](https://raw.github.com/) -->
+![ScreenShot 1](https://github.com/yaki29/facelock/blob/master/Screenshot%201.png)
+![ScreenShot 2](https://github.com/yaki29/facelock/blob/master/Screenshot%202.png)
 
 ##Usage Summary
 
