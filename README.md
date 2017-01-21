@@ -1,8 +1,8 @@
 Face Lock
 =============
 
-![ScreenShot 1](https://github.com/yaki29/facelock/blob/master/Screenshot%201.png)
-![ScreenShot 2](https://github.com/yaki29/facelock/blob/master/Screenshot.png)
+![ScreenShot 1](https://github.com/kivy-garden/garden.facelock/blob/master/Screenshot%201.png)
+![ScreenShot 2](https://github.com/kivy-garden/garden.facelock/blob/master/screenshot.png)
 
 ##Usage Summary
 
@@ -21,6 +21,8 @@ from kivy.garden.facelock import FaceLock
 
 ###See example.py file for more.
 I have added cascade for general frontal face so that anyone can unlock the example application.
+
+You can make your own face's cascade [here](https://www.youtube.com/watch?v=jG3bu0tjFbk&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq&index=17) is a link from which I learnt. You can even use [standard cascades](https://github.com/opencv/opencv/tree/master/data/haarcascades) licensed by intel.
 
 ##FaceLock Properties
 
